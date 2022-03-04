@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kim M | Long Khuong&#39;s</title>
-    <link>https://academic-demo.netlify.app/author/kim-m/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/kim-m/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://longkhuong.com/author/kim-m/</link>
+      <atom:link href="https://longkhuong.com/author/kim-m/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim M</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://longkhuong.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Kim M</title>
-      <link>https://academic-demo.netlify.app/author/kim-m/</link>
+      <link>https://longkhuong.com/author/kim-m/</link>
     </image>
     
     <item>
       <title>Real World Evidence of Trace, Test, Isolation, and Quarantine Impact on the COVID-19 Pandemic Response Performance. http://dx.doi.org/10.2139/ssrn.3954082</title>
-      <link>https://academic-demo.netlify.app/publication/2_2022_oh-j_-real-world-evidence-of-trace/</link>
+      <link>https://longkhuong.com/publication/2_2022_oh-j_-real-world-evidence-of-trace/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/2_2022_oh-j_-real-world-evidence-of-trace/</guid>
+      <guid>https://longkhuong.com/publication/2_2022_oh-j_-real-world-evidence-of-trace/</guid>
       <description></description>
     </item>
     

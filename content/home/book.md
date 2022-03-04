@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2019-09-01"
   description: "Chapter *“Applied mixed-effects model for repeated measurement data”*. Textbook *“Statistical analysis for experimental study in health science”*. Hoang VM, et al. Medical publishing house. Hanoi, 2019. ISBN: 978-604-66-3626-7"
-  organization: ADHERE
+  organization: Medical publishing house
   organization_url:
   title: "Book chapter"
   url: 
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-03-16"
   description: "**Khuong Quynh Long**, Thinh OP, Minh HV. _“Sample Size Calculator in Health Science Research”_. Copyright certified by the Copyright Office of Vietnam (Certificate No. 1804/2021/QTG)"
-  organization: Medical publishing house
+  organization: ADHERE
   organization_url:
   title: "Software"
   url: 

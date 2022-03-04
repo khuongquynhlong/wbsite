@@ -40,7 +40,7 @@ item:
   date_start: "2019-05-01"
   description: |2-
       This was the grant from WHO to conduct the GSHS in Vietnam 2019. The GSHS 2019 is the national survey to measure and assess the behavioural risk factors and protective factors in 10 key areas among young people aged 13 to 17 years. I was the leader of technical team of this project.
-      * Role: technical team leader
+      * Role: Technical team leader
       * PI: Prof. Hoang VM
       * Budget: $55,000
   organization: WHO

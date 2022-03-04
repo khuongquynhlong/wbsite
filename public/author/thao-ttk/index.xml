@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thao TTK | Long Khuong&#39;s</title>
-    <link>https://academic-demo.netlify.app/author/thao-ttk/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/thao-ttk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://longkhuong.com/author/thao-ttk/</link>
+      <atom:link href="https://longkhuong.com/author/thao-ttk/index.xml" rel="self" type="application/rss+xml" />
     <description>Thao TTK</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://longkhuong.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Thao TTK</title>
-      <link>https://academic-demo.netlify.app/author/thao-ttk/</link>
+      <link>https://longkhuong.com/author/thao-ttk/</link>
     </image>
     
     <item>
       <title>Relationship between family functioning and health-related quality of life among methadone maintenance patients: a Bayesian approach</title>
-      <link>https://academic-demo.netlify.app/publication/8_long-q_quality-of-life-among-methadone/</link>
+      <link>https://longkhuong.com/publication/8_long-q_quality-of-life-among-methadone/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/8_long-q_quality-of-life-among-methadone/</guid>
+      <guid>https://longkhuong.com/publication/8_long-q_quality-of-life-among-methadone/</guid>
       <description></description>
     </item>
     

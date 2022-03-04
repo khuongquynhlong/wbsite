@@ -85,7 +85,7 @@ experience:
     company_logo: UMP
     location: Ho Chi Minh City, Vietnam
     date_start: '2018-01-01'
-    date_end: '2010-11-01'
+    date_end: '2018-11-01'
     description: |2-
         _**Conducted research in substance abuse treatment and HIV prevention**_
         

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nguyen VH | Long Khuong&#39;s</title>
-    <link>https://academic-demo.netlify.app/author/nguyen-vh/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/nguyen-vh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://longkhuong.com/author/nguyen-vh/</link>
+      <atom:link href="https://longkhuong.com/author/nguyen-vh/index.xml" rel="self" type="application/rss+xml" />
     <description>Nguyen VH</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://longkhuong.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Nguyen VH</title>
-      <link>https://academic-demo.netlify.app/author/nguyen-vh/</link>
+      <link>https://longkhuong.com/author/nguyen-vh/</link>
     </image>
     
     <item>
       <title>An adaptive model of health system organization and responses helped Vietnam to successfully halt the Covid-19 pandemic: What lessons can be learned from a resource-constrained country</title>
-      <link>https://academic-demo.netlify.app/publication/6_nguyen-vh_an-adaptive-model-_covid-19/</link>
+      <link>https://longkhuong.com/publication/6_nguyen-vh_an-adaptive-model-_covid-19/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/6_nguyen-vh_an-adaptive-model-_covid-19/</guid>
+      <guid>https://longkhuong.com/publication/6_nguyen-vh_an-adaptive-model-_covid-19/</guid>
       <description></description>
     </item>
     

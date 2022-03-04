@@ -42,7 +42,7 @@ title: Khuong Quynh Long
 
 # Welcome!
 
-Hello I'm Long, it is great to have you here.
+Hello I'm Long, it is great to have you here. This is my personal website
 
 I'm currently an MSc student in Biostatistics at Hasselt University, Belgium. My background is a medical doctor specializing in preventive medicine. I have skills in clinical practice and research skills in terms of epidemiological research and statistical analysis.
 
