@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📚 Applied Bayesian statistics in medical research with R and Stata | Long Khuong&#39;s</title>
+    <link>https://longkhuong.com/courses/bayesian/</link>
+      <atom:link href="https://longkhuong.com/courses/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <description>📚 Applied Bayesian statistics in medical research with R and Stata</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://longkhuong.com/courses/bayesian/featured.jpg</url>
+      <title>📚 Applied Bayesian statistics in medical research with R and Stata</title>
+      <link>https://longkhuong.com/courses/bayesian/</link>
+    </image>
+    
+  </channel>
+</rss>
