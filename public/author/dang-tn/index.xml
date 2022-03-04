@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dang TN | Long Khuong&#39;s</title>
+    <link>https://longkhuong.com/author/dang-tn/</link>
+      <atom:link href="https://longkhuong.com/author/dang-tn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dang TN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://longkhuong.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dang TN</title>
+      <link>https://longkhuong.com/author/dang-tn/</link>
+    </image>
+    
+    <item>
+      <title>Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and teaching</title>
+      <link>https://longkhuong.com/publication/43_dang-tn_directed-acyclic-graphs/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://longkhuong.com/publication/43_dang-tn_directed-acyclic-graphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

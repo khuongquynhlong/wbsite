@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAGs | Long Khuong&#39;s</title>
+    <link>https://longkhuong.com/tag/dags/</link>
+      <atom:link href="https://longkhuong.com/tag/dags/index.xml" rel="self" type="application/rss+xml" />
+    <description>DAGs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://longkhuong.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>DAGs</title>
+      <link>https://longkhuong.com/tag/dags/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://longkhuong.com/project/dags/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://longkhuong.com/project/dags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

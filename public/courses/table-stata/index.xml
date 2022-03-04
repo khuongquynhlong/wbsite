@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 Introduction to Stata macro and reproducible tables with Stata | Long Khuong&#39;s</title>
+    <link>https://longkhuong.com/courses/table-stata/</link>
+      <atom:link href="https://longkhuong.com/courses/table-stata/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 Introduction to Stata macro and reproducible tables with Stata</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://longkhuong.com/courses/table-stata/featured.jpg</url>
+      <title>📊 Introduction to Stata macro and reproducible tables with Stata</title>
+      <link>https://longkhuong.com/courses/table-stata/</link>
+    </image>
+    
+  </channel>
+</rss>
