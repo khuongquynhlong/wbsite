@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 Applying Directed Acyclic Graphs (DAGs) in epidemiological research | Long Khuong&#39;s</title>
+    <link>https://longkhuong.com/courses/dags/</link>
+      <atom:link href="https://longkhuong.com/courses/dags/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 Applying Directed Acyclic Graphs (DAGs) in epidemiological research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Khuong Quynh Long</copyright><lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://longkhuong.com/courses/dags/featured.png</url>
+      <title>📊 Applying Directed Acyclic Graphs (DAGs) in epidemiological research</title>
+      <link>https://longkhuong.com/courses/dags/</link>
+    </image>
+    
+  </channel>
+</rss>

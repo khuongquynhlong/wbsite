@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://longkhuong.com/sitemap.xml
