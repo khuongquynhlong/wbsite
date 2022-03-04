@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huynh V-AN | Long Khuong&#39;s</title>
+    <link>https://academic-demo.netlify.app/author/huynh-v-an/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/huynh-v-an/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huynh V-AN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Huynh V-AN</title>
+      <link>https://academic-demo.netlify.app/author/huynh-v-an/</link>
+    </image>
+    
+    <item>
+      <title>Psychometric properties of the medical outcomes study: social support survey among methadone maintenance patients in Ho Chi Minh City, Vietnam: a validation study</title>
+      <link>https://academic-demo.netlify.app/publication/10_long-q_psychometric_methadone/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/10_long-q_psychometric_methadone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

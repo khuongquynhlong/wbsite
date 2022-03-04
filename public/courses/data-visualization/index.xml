@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 Data visualization with ggplot2 | Long Khuong&#39;s</title>
+    <link>https://academic-demo.netlify.app/courses/data-visualization/</link>
+      <atom:link href="https://academic-demo.netlify.app/courses/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 Data visualization with ggplot2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/courses/data-visualization/featured.png</url>
+      <title>📊 Data visualization with ggplot2</title>
+      <link>https://academic-demo.netlify.app/courses/data-visualization/</link>
+    </image>
+    
+  </channel>
+</rss>
