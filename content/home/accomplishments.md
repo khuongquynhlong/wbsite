@@ -27,7 +27,7 @@ item:
   date_end: "2023-09-01"
   date_start: "2021-09-01"
   description: Full scholarship (tuition, living stipend, health insurance, return airfare, visa application, and miscellaneous fees)
-  organization: VLIRUOS
+  organization: VlirUOS
   organization_url: https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_master_programmes_(icp_connect)/114
   title: VLIR-UOS ICP Scholarship – Belgian Government
   url: https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_master_programmes_(icp_connect)/114
@@ -47,7 +47,7 @@ item:
   date_start: "2011-11-01"
   description: |2-
       The first thesis achieved a score of 10/10 in the faculty
-  organization: FPH
+  organization: UMP
   organization_url: 
   title: Award of the best graduation thesis - Faculty of Public Health, University of Medicine and Pharmacy at Ho Chi Minh City
   url: 
