@@ -27,7 +27,7 @@ item:
   date_end: "2023-09-01"
   date_start: "2021-09-01"
   description: Full scholarship (tuition, living stipend, health insurance, return airfare, visa application, and miscellaneous fees)
-  organization: VLIR-UOS
+  organization: VLIRUOS
   organization_url: https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_master_programmes_(icp_connect)/114
   title: VLIR-UOS ICP Scholarship – Belgian Government
   url: https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_master_programmes_(icp_connect)/114
