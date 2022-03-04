@@ -31,7 +31,7 @@ item:
       * Role: Research analyst 
       * PI: Prof. Juhwan Oh
       * Budget: €70,000
-  organization: EBRD
+  organization: ebrd
   organization_url: https://www.ebrd.com/home
   title: "European Bank for Reconstruction and Development (EBRD): COVID-19 Response and Preparedness Capacity TC Support for Healthcare Sector"
   url: 
