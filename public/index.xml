@@ -602,10 +602,10 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>HIV Prevalence and Factors Related to HIV Infection among Transgender Women in Vietnam: A Respondent Driven Sampling Approach</title>
-      <link>https://academic-demo.netlify.app/talk/hiv-prevalence-and-factors-related-to-hiv-infection-among-transgender-women-in-vietnam-a-respondent-driven-sampling-approach/</link>
+      <title>(Oral presentation) HIV Prevalence and Factors Related to HIV Infection among Transgender Women in Vietnam: A Respondent Driven Sampling Approach</title>
+      <link>https://academic-demo.netlify.app/talk/oral-presentation-hiv-prevalence-and-factors-related-to-hiv-infection-among-transgender-women-in-vietnam-a-respondent-driven-sampling-approach/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/hiv-prevalence-and-factors-related-to-hiv-infection-among-transgender-women-in-vietnam-a-respondent-driven-sampling-approach/</guid>
+      <guid>https://academic-demo.netlify.app/talk/oral-presentation-hiv-prevalence-and-factors-related-to-hiv-infection-among-transgender-women-in-vietnam-a-respondent-driven-sampling-approach/</guid>
       <description></description>
     </item>
     
@@ -749,7 +749,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-954271836&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-253419768&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -759,7 +759,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-954271836&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-253419768&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1000,10 +1000,10 @@ You found me!
     </item>
     
     <item>
-      <title>Applied Bayesian Statistics in Medical Research: A Brief Introduction</title>
-      <link>https://academic-demo.netlify.app/talk/applied-bayesian-statistics-in-medical-research-a-brief-introduction/</link>
+      <title>(Oral presentation) Applied Bayesian Statistics in Medical Research: A Brief Introduction</title>
+      <link>https://academic-demo.netlify.app/talk/oral-presentation-applied-bayesian-statistics-in-medical-research-a-brief-introduction/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/applied-bayesian-statistics-in-medical-research-a-brief-introduction/</guid>
+      <guid>https://academic-demo.netlify.app/talk/oral-presentation-applied-bayesian-statistics-in-medical-research-a-brief-introduction/</guid>
       <description></description>
     </item>
     
@@ -1225,10 +1225,10 @@ Three
     </item>
     
     <item>
-      <title>Factors associated with treatment dropout among methadone maintenance patients in Ho Chi Minh City, Vietnam: a multilevel survival analysis approach</title>
-      <link>https://academic-demo.netlify.app/talk/factors-associated-with-treatment-dropout-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-multilevel-survival-analysis-approach/</link>
+      <title>(Oral presentation) Factors associated with treatment dropout among methadone maintenance patients in Ho Chi Minh City, Vietnam: a multilevel survival analysis approach</title>
+      <link>https://academic-demo.netlify.app/talk/oral-presentation-factors-associated-with-treatment-dropout-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-multilevel-survival-analysis-approach/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/factors-associated-with-treatment-dropout-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-multilevel-survival-analysis-approach/</guid>
+      <guid>https://academic-demo.netlify.app/talk/oral-presentation-factors-associated-with-treatment-dropout-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-multilevel-survival-analysis-approach/</guid>
       <description></description>
     </item>
     
@@ -1241,10 +1241,10 @@ Three
     </item>
     
     <item>
-      <title>Psychometric properties of the medical outcomes study: social support survey among methadone maintenance patients in Ho Chi Minh City, Vietnam: a validation study</title>
-      <link>https://academic-demo.netlify.app/talk/psychometric-properties-of-the-medical-outcomes-study-social-support-survey-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-validation-study/</link>
+      <title>(Poster) Psychometric properties of the medical outcomes study: social support survey among methadone maintenance patients in Ho Chi Minh City, Vietnam: a validation study</title>
+      <link>https://academic-demo.netlify.app/talk/poster-psychometric-properties-of-the-medical-outcomes-study-social-support-survey-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-validation-study/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/psychometric-properties-of-the-medical-outcomes-study-social-support-survey-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-validation-study/</guid>
+      <guid>https://academic-demo.netlify.app/talk/poster-psychometric-properties-of-the-medical-outcomes-study-social-support-survey-among-methadone-maintenance-patients-in-ho-chi-minh-city-vietnam-a-validation-study/</guid>
       <description></description>
     </item>
     

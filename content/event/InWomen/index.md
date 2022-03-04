@@ -27,9 +27,9 @@ projects:
 - 
 publishDate: "2020-06-19"
 slides:
-summary: Oral presentation 
-tags: []
-title: "HIV Prevalence and Factors Related to HIV Infection among Transgender Women in Vietnam: A Respondent Driven Sampling Approach"
+summary:  
+tags: [Oral presentation]
+title: "(Oral presentation) HIV Prevalence and Factors Related to HIV Infection among Transgender Women in Vietnam: A Respondent Driven Sampling Approach"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -27,9 +27,9 @@ projects:
 - 
 publishDate: "2018-05-01"
 slides:
-summary: Oral presentation 
-tags: []
-title: "Factors associated with treatment dropout among methadone maintenance patients in Ho Chi Minh City, Vietnam: a multilevel survival analysis approach"
+summary: 
+tags: [Oral presentation]
+title: "(Oral presentation) Factors associated with treatment dropout among methadone maintenance patients in Ho Chi Minh City, Vietnam: a multilevel survival analysis approach"
 url_code: ""
 url_pdf: ""
 url_slides: ""

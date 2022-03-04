@@ -27,9 +27,9 @@ projects:
 - 
 publishDate: "2018-01-20"
 slides:
-summary: Poster
-tags: []
-title: "Psychometric properties of the medical outcomes study: social support survey among methadone maintenance patients in Ho Chi Minh City, Vietnam: a validation study"
+summary: 
+tags: [Poster]
+title: "(Poster) Psychometric properties of the medical outcomes study: social support survey among methadone maintenance patients in Ho Chi Minh City, Vietnam: a validation study"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -27,9 +27,9 @@ projects:
 - 
 publishDate: "2019-04-02"
 slides:
-summary: Oral presentation 
-tags: []
-title: "Applied Bayesian Statistics in Medical Research: A Brief Introduction"
+summary: 
+tags: [Oral presentation]
+title: "(Oral presentation) Applied Bayesian Statistics in Medical Research: A Brief Introduction"
 url_code: ""
 url_pdf: ""
 url_slides: ""
