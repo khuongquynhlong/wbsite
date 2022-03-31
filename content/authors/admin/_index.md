@@ -42,13 +42,11 @@ title: Khuong Quynh Long
 
 # Welcome!
 
-Hello I'm Long, it is great to have you here. This is my personal website
+Hello I'm Long, it is great to have you here.
 
 I'm currently an MSc student in Biostatistics at Hasselt University, Belgium. My background is a medical doctor specializing in preventive medicine. I have skills in clinical practice and research skills in terms of epidemiological research and statistical analysis.
 
 My work aims to prevent the early development of Non-communicable diseases (NCDs) and to improve the health of vulnerable populations. My approach is to apply statistical and epidemiological methods to derive the causal conclusions from observational data. 
-
-I have published 50 original articles in peer-reviewed journals. 
 
 I am a person who is always willing to learn and share, having a sense of responsibility, and pursuing a career in academia.
 
